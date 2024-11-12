@@ -1,15 +1,20 @@
 # Informasi Proyek
-echo "Proyek: Aplikasi Mobile Monitoring Sederhana"
-echo "Pengembang: BUDI AMIN - 152022213"
-echo "Fitur: Monitoring Suhu, Kelembaban, Kekeruhan, dan pH"
+"Proyek: Aplikasi Mobile Monitoring Sederhana"
+"Pengembang: BUDI AMIN - 152022213"
+"Fitur: Monitoring Suhu, Kelembaban, Kekeruhan, dan pH"
 
 # Kloning Repository
+```bash
 git clone https://github.com/BudiAmin/Uts_IoT_2024.git
-cd Uts_IoT_2024
+```
 
 # Instalasi Dependencies
+```bash
 flutter pub get
-
+``
 # Menjalankan Aplikasi
-echo "Hubungkan perangkat atau gunakan emulator terlebih dahulu."
+```bash
 flutter run
+```
+
+
