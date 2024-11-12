@@ -14,7 +14,7 @@ flutter pub get
 
 
 # Menjalakan Aplikasi
-```bash
+bash
 flutter run 
 
 
