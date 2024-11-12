@@ -13,7 +13,5 @@ git clone https://github.com/BudiAmin/Uts_IoT_2024.git
 flutter pub get 
 
 
-**# Menjalakan Aplikasi**
-flutter run 
 
 
