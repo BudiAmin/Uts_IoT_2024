@@ -1,8 +1,5 @@
 # Informasi Proyek
-"Proyek: Aplikasi Mobile Monitoring Sederhana"
-"Pengembang: BUDI AMIN - 152022213"
-"Fitur: Monitoring Suhu, Kelembaban, Kekeruhan, dan pH"
-
+Proyek uts_iot adalah aplikasi mobile sederhana yang berfungsi untuk memantau berbagai parameter lingkungan, termasuk suhu, kelembaban, kekeruhan, dan tingkat pH. Aplikasi ini dibangun menggunakan Flutter dan terhubung dengan sensor melalui protokol MQTT untuk mendapatkan data secara real-time.
 # Kloning Repository
 ```bash
 git clone https://github.com/BudiAmin/Uts_IoT_2024.git
