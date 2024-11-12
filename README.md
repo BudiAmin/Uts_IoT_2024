@@ -1,16 +1,16 @@
 # uts_iot
+BUDI AMIN 
+152022213
+APLIKASI MOBILE MONITORING SEDERHANA UNTUK SUHU,KELEMBABAN,KEKERUHAN,PH 
 
-A new Flutter project.
+# Kloning Repository
+git clone https://github.com/BudiAmin/Uts_IoT_2024.git
 
-## Getting Started
+# Instalasi Dependencies
+flutter pub get
 
-This project is a starting point for a Flutter application.
+# Menjalankan Aplikasi
+Hubungkan perangkat atau gunakan emulator.
+Jalankan perintah berikut untuk memulai aplikasi:
+flutter run
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
